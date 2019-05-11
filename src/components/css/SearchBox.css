@@ -1,0 +1,29 @@
+.search-box {
+  background: #272c3f;
+  color: #f0f0f1;
+  height: 150px;
+  width: inherit;
+  border-radius: 3px;
+  margin-top: 5vh;
+}
+
+.search-title {
+  padding: 10px 15px 10px 15px;
+}
+
+input::placeholder {
+  color: #f0f0f1;
+}
+
+input[type="text"] {
+  border: 2px solid #f0f0f1;
+  padding: 12px 12px;
+  background-color: #404b69;
+  color: #f0f0f1;
+  width: 50%;
+}
+
+input[type="text"]:focus {
+  border: 2px solid #5fb9b0;
+  outline: none;
+}

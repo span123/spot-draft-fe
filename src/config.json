@@ -1,0 +1,4 @@
+{
+  "FILM_URL": "https://swapi.co/api/films/?format=json",
+  "PLANETS_URL": "https://swapi.co/api/planets/?format=json"
+}

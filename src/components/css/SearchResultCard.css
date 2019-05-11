@@ -1,0 +1,20 @@
+.search-result-card {
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.search-result-card-container {
+  background: #404b69;
+  color: #f0f0f1;
+  padding: 0px 0px;
+  border-radius: 3px;
+}
+
+.search-result-card-header {
+  user-select: none;
+  padding: 10px 0px;
+  font-size: 1.25rem;
+  background: #404b69;
+  border-radius: 5px;
+  color: palegoldenrod;
+}

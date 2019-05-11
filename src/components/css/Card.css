@@ -1,0 +1,16 @@
+.card {
+  background: #404b69;
+  color: palegoldenrod;
+  border-radius: 3px;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  padding: 10px;
+  margin: auto;
+  width: 100%;
+}
+
+.card-content {
+  padding-bottom: 10px;
+}

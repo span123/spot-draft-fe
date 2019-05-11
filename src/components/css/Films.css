@@ -1,0 +1,13 @@
+.mt-20 {
+  margin-top: 20px;
+}
+
+.m-10 {
+  margin: 10px;
+}
+
+.p-10 {
+  padding: 10px;
+  text-align: justify;
+  user-select: none;
+}
